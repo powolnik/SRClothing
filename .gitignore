@@ -1,11 +1,7 @@
 # Visual Studio 2015 user specific files
 .vs/
-<<<<<<< HEAD
-=======
 .idea/
 
-
->>>>>>> a5e44f4 (init commit)
 
 # Compiled Object files
 *.slo
