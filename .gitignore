@@ -1,5 +1,11 @@
 # Visual Studio 2015 user specific files
 .vs/
+<<<<<<< HEAD
+=======
+.idea/
+
+
+>>>>>>> a5e44f4 (init commit)
 
 # Compiled Object files
 *.slo
@@ -47,7 +53,11 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
+<<<<<<< HEAD
 Plugins/**/Binaries/*
+=======
+Plugins/*/Binaries/*
+>>>>>>> a5e44f4 (init commit)
 
 # Builds
 Build/*
@@ -68,7 +78,14 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
+<<<<<<< HEAD
 Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+=======
+Plugins/*/Intermediate/*
+
+# Cache files for the editor to use
+DerivedDataCache/*
+>>>>>>> a5e44f4 (init commit)
